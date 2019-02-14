@@ -8,7 +8,7 @@ var h = 60;
 
 function draw() {
   stroke(random(60, 70), 100, 90);
-  line(x+40, height-10, x+random(-10, 10), height-10-random(h));
+  line(x-40, height-10, x+random(-10, 10), height-10-random(h));
   noStroke();
 
   x = x + 10;
