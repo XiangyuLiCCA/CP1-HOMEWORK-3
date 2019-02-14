@@ -19,7 +19,7 @@ function draw() {
   }
 
   if (h >= 150) {
-    fill(235);
+    fill(255);
     rect(0, 0, width, height - 30);
     h = 30; // Lawn mower if lawn height > 150
   }
