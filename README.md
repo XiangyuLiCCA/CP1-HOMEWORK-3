@@ -26,3 +26,13 @@ What does the -10 do in the second and fourth arguments of the line function, he
 
 -10 is the thickness of the land, and height-10-random(h) means that each time the repainted grass grows from a point 10 pixels from the bottom edge, it is also to ensure that the grass grows from the surface of the land.
 
+What's the point of an object?
+
+put the data inside.
+
+What's an example of a range you might use for the map function?
+
+if you waht re-maps a number from one range to another. Such as if you want the background is red when your mouse cursor is on the left, the background color turns white when the mouse cursor moves to the right.
+
+What line of code would give me a random year in the last century?
+
